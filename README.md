@@ -4,7 +4,7 @@ A TypeScript React application built with Vite that fetches data from the PokeAP
 
 ## Live Demo
 
-[View the live demo here](#) <!-- Replace with your deployed app URL -->
+[View the live demo here](#) [<!-- Replace with your deployed app URL -->](https://interactive-data-explorer-imhbwrpo9-creatorramas-projects.vercel.app/)
 
 ## Features
 
